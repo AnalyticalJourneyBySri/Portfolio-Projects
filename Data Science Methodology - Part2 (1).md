@@ -1,7 +1,7 @@
 <h1 align="center">Unveiling the Data Science Alchemy: A Comprehensive Methodology</h1>
 
           We've covered the stages of the data science methodology up to evaluation. In this section, we'll discuss crucial next steps such as model deployment and feedback. Before delving into that, let's explore a basic Inventory Optimization flowchart to better grasp the potential optimization contributions of data science.
-![Data Science Methodology](attachment:Screenshot%20%282036%29.png)
+![Data Science Methodology](Inventory Optimisation.png)
 
           Above diagram shows us the basic stages where Inventory optimization could take place with data science.
           
