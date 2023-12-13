@@ -3,7 +3,7 @@
           We've covered the stages of the data science methodology up to evaluation. In this section, we'll discuss crucial next steps such as model deployment and feedback. Before delving into that, let's explore a basic Inventory Optimization flowchart to better grasp the potential optimization contributions of data science.
 
 
- ![Inventory Optimisation](Inventory Optimisation.png)
+ ![Inventory Optimisation](Inventory%20Optimisation.png)
 
           Above diagram shows us the basic stages where Inventory optimization could take place with data science.
           
